@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    background-color: yellow;
+    color: black;
+    height: auto;
+    width: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+}
+
